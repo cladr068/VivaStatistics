@@ -1,5 +1,11 @@
 # VivaStatistics
 
+## Required
+
+You just need an annotaion file that needs to have the category Id added. (categories : `paying`, `receiving`, `picking_up` and `ordering`).
+
+## How does it work ?
+
 
 
 
