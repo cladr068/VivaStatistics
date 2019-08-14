@@ -6,7 +6,9 @@ You just need an annotaion file that needs to have the category Id added. (categ
 
 ## How does it work ?
 
-First of all import you annotation file.
+First of all open `index.html` in your browser.
+
+Then import your annotation file.
 
 ![picture](imgGithub/global.png)
 
