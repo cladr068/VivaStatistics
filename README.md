@@ -10,6 +10,9 @@ First of all import you annotation file.
 
 ![picture](imgGithub/global.png)
 
+### Get the statistics of the video
+
+If you want to see the statistics like the number of customers or the mean time passing to pay by customer or in general, you must enter the time of the video in the field and click on the button below. The statistics will appear bellow. 
 
 ## Licensing
 
